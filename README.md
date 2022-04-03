@@ -10,7 +10,5 @@ compress in .tar.gz
 # Decompress the .tar.gz file in the
 # folder like /usr or ~/.local ($PREFIX)
 
-tar -zxf ./python_3.8.6_<ARCH>.tar.gz \
-                   --recursive-unlink \
-                   --preserve-permissions
+tar -zxf ./python_3.8.6_<ARCH>.tar.gz
 ```
