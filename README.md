@@ -1,6 +1,6 @@
 # [PyTasker][link]
 
-A way to run python directly from tasker
+Run python3 straight from Tasker without plugins
 
 
 &nbsp;
