@@ -12,11 +12,11 @@ A way to run python directly from tasker
   
  **Version:** 1.0.0
 
-**Root:** True/False
-
+**Root:** False
 
 &nbsp;
 
+---
 
 <details>
 <summary><b>Tasks</b></summary>
@@ -142,6 +142,8 @@ Run Shell with python3 installed
 
 </ul>
 </details>
+
+---
 
 &nbsp;
 
